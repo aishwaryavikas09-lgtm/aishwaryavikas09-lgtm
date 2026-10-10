@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**aishwaryavikas09-lgtm/aishwaryavikas09-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Waving header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0a3069&height=200&section=header&text=Aishwarya%20K%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Backend&descSize=18&descAlignY=58" alt="Aishwarya K R" />
@@ -21,7 +5,7 @@ Here are some ideas to get you started:
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/aishwaryavikas09-lgtm">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+%26+Computer+Vision;REST+APIs+with+Flask+%2F+FastAPI;MySQL+%7C+Streamlit+%7C+Azure+AI-900" alt="Typing animation" />
   </a>
 </p>
@@ -64,7 +48,7 @@ Currently working as a Python Developer Trainee. Microsoft Azure AI-900 certifie
 ## Projects
 
 ### Smart Attendance System with Anti-Spoofing
-*Python, OpenCV, TensorFlow, FaceNet, SQLite* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+*Python, OpenCV, TensorFlow, FaceNet, SQLite* · [Repository](https://github.com/aishwaryavikas09-lgtm/YOUR_REPO_NAME)
 
 - Built a computer vision pipeline covering face detection, embedding extraction, recognition, and automated attendance logging from live webcam input.
 - Implemented liveness detection to reject printed-photo and screen-replay spoofing attempts.
@@ -72,14 +56,14 @@ Currently working as a Python Developer Trainee. Microsoft Azure AI-900 certifie
 - Combined OpenCV preprocessing with deep learning models to improve real-time recognition speed.
 
 ### Heart Disease Prediction using Machine Learning
-*Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+*Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter* · [Repository](https://github.com/aishwaryavikas09-lgtm/YOUR_REPO_NAME)
 
 - Performed data preprocessing, feature selection, and exploratory data analysis on patient clinical data.
 - Trained and compared six classifiers: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, and Naive Bayes.
 - Evaluated models using accuracy, precision, recall, and F1-score to select the best performer for binary heart disease prediction.
 
 ### ML Prediction Web Application
-*Python, Streamlit, Scikit-learn, Pickle* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) · [Live Demo](https://your-app-link.streamlit.app)
+*Python, Streamlit, Scikit-learn, Pickle* · [Repository](https://github.com/aishwaryavikas09-lgtm/YOUR_REPO_NAME) · [Live Demo](https://your-app-link.streamlit.app)
 
 - Deployed a Streamlit application serving a serialized regression model for real-time predictions.
 
@@ -105,14 +89,31 @@ Currently working as a Python Developer Trainee. Microsoft Azure AI-900 certifie
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="" />
 
+## Currently
+
+- Working as a Python Developer Trainee at Algonex IT Solutions
+- Strengthening: REST API design, SQL optimization, LLM API integration
+- Open to: entry-level Python, ML and backend roles in Bengaluru and remote
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="" />
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aishwaryavikas09-lgtm&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryavikas09-lgtm&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
 <!-- Snake animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake.svg" />
+    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake.svg" />
   </picture>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="" />
 
 ## Contact
 
