@@ -14,126 +14,85 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Aishwarya K R 👋</h1>
+# Aishwarya K R
 
-<h3 align="center">AI-Powered Python Developer · MySQL · Azure AI-900</h3>
+**Python Developer | Machine Learning | Backend & Data Engineering**
+Bengaluru, India
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aishwarya-vikas-6953133aa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aishwaryavikas09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-2ea44f?style=for-the-badge" alt="Location">
-</p>
+[LinkedIn](https://www.linkedin.com/in/aishwarya-vikas-6953133aa) · [Email](mailto:aishwaryavikas09@gmail.com)
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-Python AI developer who enjoys building the full cycle: wrangling data in **Pandas**, training models with **Scikit-learn**, optimizing **MySQL**, and deploying with **Streamlit**. Currently working as a Python Developer Trainee, building ML pipelines, REST APIs and data-driven apps.
+Python developer with a Master's in Computer Science and hands-on experience across the full build cycle: data analysis with Pandas and NumPy, model training with Scikit-learn, SQL development in MySQL, REST API development with Flask/FastAPI, and deployment of ML models through Streamlit.
 
-- 🔭 Working on: ML pipelines, Flask/FastAPI backends, Gen AI-integrated systems
-- 🌱 Learning: LLM APIs, prompt engineering, Azure AI services
-- 🎯 Looking for: **Python / AI-ML / Backend developer roles (fresher)**
-- 📍 Based in Bengaluru, India
+Currently working as a Python Developer Trainee. Microsoft Azure AI-900 certified. Seeking an entry-level role in Python development, machine learning, or backend engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**AI / ML & Data**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-
-**Backend, Databases & Apps**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, C, SQL, HTML5, CSS3 |
+| Machine Learning | Scikit-learn, TensorFlow, OpenCV, FaceNet, NumPy, Pandas, Matplotlib |
+| Backend & APIs | Flask, FastAPI, RESTful API design, CRUD applications |
+| Databases | MySQL (triggers, stored procedures, CTEs, views, subqueries), SQLite |
+| Deployment & Apps | Streamlit, Pickle model serialization |
+| Gen AI | LLM APIs, prompt engineering |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook, Eclipse |
+| Core CS | Data Structures & Algorithms, OOP, SDLC |
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🎯 Smart Attendance System with Anti-Spoofing
-`Python` `OpenCV` `TensorFlow` `FaceNet` `SQLite`
+### Smart Attendance System with Anti-Spoofing
+*Python, OpenCV, TensorFlow, FaceNet, SQLite* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 
-- End-to-end computer vision pipeline: face detection → embedding extraction → recognition → automated attendance logging from live webcam feeds
-- Liveness detection module to block printed-photo and screen-replay attacks (proxy attendance)
-- SQLite-backed user profiles, attendance records and report generation
-- OpenCV preprocessing combined with deep learning for faster real-time recognition
+- Built a computer vision pipeline covering face detection, embedding extraction, recognition, and automated attendance logging from live webcam input.
+- Implemented liveness detection to reject printed-photo and screen-replay spoofing attempts.
+- Stored user profiles and attendance records in SQLite, with report generation.
+- Combined OpenCV preprocessing with deep learning models to improve real-time recognition speed.
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+### Heart Disease Prediction using Machine Learning
+*Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 
-### ❤️ Heart Disease Prediction using Machine Learning
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter`
+- Performed data preprocessing, feature selection, and exploratory data analysis on patient clinical data.
+- Trained and compared six classifiers: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, and Naive Bayes.
+- Evaluated models using accuracy, precision, recall, and F1-score to select the best performer for binary heart disease prediction.
 
-- Data preprocessing, feature selection and EDA on patient clinical data
-- Compared 6 classifiers: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Naive Bayes
-- Binary prediction (0 = No Heart Disease, 1 = Heart Disease Detected)
-- Evaluated with Accuracy, Precision, Recall and F1-Score to pick the best model
+### ML Prediction Web Application
+*Python, Streamlit, Scikit-learn, Pickle* · [Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) · [Live Demo](https://your-app-link.streamlit.app)
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-
-### 📈 Streamlit ML Prediction App
-`Python` `Streamlit` `Scikit-learn` `Pickle`
-
-- Deployed a Streamlit web app serving a Pickle-serialized regression model for real-time predictions
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) · [Live Demo](https://your-app-link.streamlit.app)
+- Deployed a Streamlit application serving a serialized regression model for real-time predictions.
 
 ---
 
-## 💼 Experience
+## Experience
 
-**Python Developer Trainee**, Algonex IT Solutions, Bengaluru *(June 2026 – Present)*
+**Python Developer Trainee**, Algonex IT Solutions, Bengaluru
+*June 2026 – Present*
 
-- Built MySQL data pipelines using triggers, stored procedures and CTEs
-- Developed RESTful APIs and CRUD applications with Flask/FastAPI (MySQL, SQLite)
-- Analyzed real-world datasets with Pandas and NumPy to support data-driven decisions
-- Deployed a Streamlit app integrated with a serialized ML model
-
----
-
-## 🎓 Education & Certification
-
-- 🎓 M.Sc. Computer Science, Kuvempu University (2021 – 2023)
-- ☁️ Microsoft Azure AI Fundamentals (AI-900)
+- Developed MySQL data pipelines using triggers, stored procedures, and CTEs.
+- Designed SQL views and subqueries to improve query efficiency.
+- Built RESTful APIs and CRUD applications with Flask/FastAPI, integrating MySQL and SQLite.
+- Analyzed real-world datasets with Pandas and NumPy to support data-driven decisions.
+- Deployed a Streamlit application integrated with a serialized ML model.
 
 ---
 
-## 📊 GitHub Stats
+## Education & Certification
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+- **M.Sc. in Computer Science**, Kuvempu University, Shankaraghatta (2021 – 2023)
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-I'm open to fresher opportunities in **Python development, AI/ML and backend engineering**.
-Reach me on [LinkedIn](https://www.linkedin.com/in/aishwarya-vikas-6953133aa) or at **aishwaryavikas09@gmail.com**.
+Open to entry-level opportunities in Python development, machine learning, and backend engineering.
 
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
+- LinkedIn: [linkedin.com/in/aishwarya-vikas-6953133aa](https://www.linkedin.com/in/aishwarya-vikas-6953133aa)
+- Email: aishwaryavikas09@gmail.com
