@@ -104,15 +104,6 @@ Currently working as a Python Developer Trainee. Microsoft Azure AI-900 certifie
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryavikas09-lgtm&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
-<!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake.svg" />
-    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/aishwaryavikas09-lgtm/aishwaryavikas09-lgtm/output/github-snake.svg" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="" />
 
 ## Contact
